@@ -1,0 +1,2 @@
+# .github
+Fakecord profile repository
